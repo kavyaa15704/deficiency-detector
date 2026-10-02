@@ -1,0 +1,13 @@
+{
+  "rows_total": 580,
+  "rows_train": 464,
+  "rows_test": 116,
+  "n_symptoms": 40,
+  "n_nutrients": 15,
+  "cv_accuracy_mean": 0.9569,
+  "test_accuracy": 0.9483,
+  "test_top3_accuracy": 0.9914,
+  "macro_precision": 0.955,
+  "macro_recall": 0.9488,
+  "macro_f1": 0.9494
+}

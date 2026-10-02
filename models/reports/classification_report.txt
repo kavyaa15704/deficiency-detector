@@ -1,0 +1,21 @@
+              precision    recall  f1-score   support
+
+     Calcium       1.00      1.00      1.00         8
+      Folate       1.00      1.00      1.00         8
+      Iodine       1.00      1.00      1.00         8
+        Iron       1.00      1.00      1.00         8
+   Magnesium       0.88      0.88      0.88         8
+     Omega-3       1.00      1.00      1.00         7
+   Potassium       0.70      0.88      0.78         8
+   Vitamin A       1.00      1.00      1.00         8
+ Vitamin B12       0.88      0.88      0.88         8
+  Vitamin B6       1.00      0.86      0.92         7
+   Vitamin C       0.88      1.00      0.93         7
+   Vitamin D       1.00      1.00      1.00         8
+   Vitamin E       1.00      1.00      1.00         8
+   Vitamin K       1.00      0.75      0.86         8
+        Zinc       1.00      1.00      1.00         7
+
+    accuracy                           0.95       116
+   macro avg       0.95      0.95      0.95       116
+weighted avg       0.95      0.95      0.95       116
