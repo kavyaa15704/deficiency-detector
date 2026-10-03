@@ -1,11 +1,21 @@
-# Step 1-2: data + ML pipeline
+# ML pipeline
 pandas
 numpy
 scikit-learn
 joblib
-python-dotenv
 
-# Added in later steps (do not install yet):
-# fastapi, uvicorn[standard]   -> Step 4
-# pymongo, bcrypt, pyjwt       -> Steps 5-6
-# requests, gradio             -> Steps 3, 7
+# API backend
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Database
+pymongo
+
+# Auth
+bcrypt
+pyjwt
+
+# Config + external API
+python-dotenv
+requests
